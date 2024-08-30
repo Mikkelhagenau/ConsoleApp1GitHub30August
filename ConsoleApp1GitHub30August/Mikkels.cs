@@ -12,5 +12,10 @@ namespace ConsoleApp1GitHub30August
         {
             Console.WriteLine("Mikkels!");
         }
+
+        public void print2()
+        {
+            Console.WriteLine("Mikkelssss!");
+        }
     }
 }
